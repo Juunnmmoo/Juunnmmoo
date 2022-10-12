@@ -1,10 +1,10 @@
-
+<div align=center>
 ## Hi there 👋
 <br>
 
 ### Contact
->Instagram : <a href="instagram.com" target="_blank"><img src="https://img.shields.io/badge/Junm0no-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br>
->Phone : <img src="https://img.shields.io/badge/01053571909-000000?style=flat&logo=Apple&logoColor=white">
+- Instagram : <a href="instagram.com" target="_blank"><img src="https://img.shields.io/badge/Junm0no-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br>
+- Phone : <img src="https://img.shields.io/badge/01053571909-000000?style=flat&logo=Apple&logoColor=white">
 <br>
 <br>
 
@@ -19,9 +19,10 @@
 <br>
 
 ### Most Used
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juunnmmoo&layout=compact)](https://github.com/Juunnmmoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juunnmmoo&layout=compact)](https://github.com/Juunnmmoo/github-readme-stats)
 <br>
 <br>
 
->![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juunnmmoo&show_icons=true&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juunnmmoo&show_icons=true&theme=flag-india)
 
+</
