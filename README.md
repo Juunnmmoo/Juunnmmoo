@@ -1,4 +1,3 @@
-<div align=center>
 
 ## Hi there 👋
 <br>
@@ -25,4 +24,4 @@ Phone : <img src="https://img.shields.io/badge/01053571909-000000?style=flat&log
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juunnmmoo&show_icons=true&theme=flag-india)
-</div>
+
