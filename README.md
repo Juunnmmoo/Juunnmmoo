@@ -2,13 +2,13 @@
 ## Hi there 👋
 <br>
 
-### Contact
+### :telephone_receiver:Contact
 - Instagram : <a href="instagram.com" target="_blank"><img src="https://img.shields.io/badge/Junm0no-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br>
 - Phone : <img src="https://img.shields.io/badge/01053571909-000000?style=flat&logo=Apple&logoColor=white">
 <br>
 <br>
 
-### STACKS<br>
+### :computer:STACKS<br>
 ><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 ><img src="https://img.shields.io/badge/C샵-A8B9CC?style=flat&logo=C&logoColor=white"/>
 ><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
