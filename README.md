@@ -3,7 +3,7 @@
 <br>
 
 ### :telephone_receiver:Contact
-- Instagram : <a href="instagram.com" target="_blank"><img src="https://img.shields.io/badge/Junm0no-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br>
+- Instagram : <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Junm0no-E4405F?style=flat&logo=Instagram&logoColor=white"/></a><br>
 - Phone : <img src="https://img.shields.io/badge/01053571909-000000?style=flat&logo=Apple&logoColor=white">
 <br>
 <br>
